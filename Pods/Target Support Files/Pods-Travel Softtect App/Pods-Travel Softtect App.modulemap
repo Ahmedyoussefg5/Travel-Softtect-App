@@ -1,0 +1,6 @@
+framework module Pods_Travel_Softtect_App {
+  umbrella header "Pods-Travel Softtect App-umbrella.h"
+
+  export *
+  module * { export * }
+}
